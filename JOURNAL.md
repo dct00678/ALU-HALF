@@ -1,7 +1,7 @@
 ---
 title: ALU-HALF
 author: dct00678
-description: Building a 74LS Half Adder: The Core Foundation of Modern Microcontrollers and ALUs
+description: "Building a 74LS Half Adder: The Core Foundation of Modern Microcontrollers and ALUs"
 created_at: 11-10-2026
 ---
 
