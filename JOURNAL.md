@@ -53,7 +53,7 @@ I also added the unused pins of each logic gates, and each of their inputs is pu
 
 **Total time spent: 20 Minutes**
 
-# November 11 2026 / 🕤 9:50 - 
+# November 11 2026 / 🕤 9:50 - 11:30
 Assembly Time!
 
 **THIS WILL ALSO BE A GUIDE FOR CREATING IT YOURSELF!!**
