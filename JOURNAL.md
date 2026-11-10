@@ -87,7 +87,10 @@ Jumper Wires / Solid Core Wires
 **5. Connect the switches on the breadboard** 
 <img width="912" height="2026" alt="image" src="https://github.com/user-attachments/assets/331a90f7-ab3b-40fb-b6d2-4fbcb253526c" />
 
-**6. Connect the switches to their appropriate logic gate inputs
+**6. Connect the switches to their appropriate logic gate inputs**
 It should be this: 
+<img width="1042" height="850" alt="image" src="https://github.com/user-attachments/assets/d0764091-124e-411d-a218-40bf5ef8730c" />
+CTTO: https://www.geeksforgeeks.org/digital-logic/implementation-of-full-adder-using-half-adders/#what-is-half-adder
+
 **Total time spent: 30 Minutes**
 
