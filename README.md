@@ -1,4 +1,7 @@
 # ALU-HALF
+
+<img width="526" height="522" alt="image" src="https://github.com/user-attachments/assets/b6616b9c-4691-4656-b248-8b572d407902" />
+
 I built this circuit or Half Adder to help new hobbyists & beginner enthusiasts understand how the basics of Digital Electronics work!!
 This circuit helped me understand the basics of Binary Addition, so why not build it and share it to others? :)
 
@@ -16,6 +19,8 @@ Since AND Gate is HIGH if only both inputs are HIGH, then the inputs are true!
 In binary addition, 1 + 1 = 0, and we have to carry the C_OUT somewhere, and the AND Gate is appropriate here!
 
 This circuit exists because Half Adders are one of the fundamentals needed in creating todays machine and MCUS. (Microcontroller Unit)
+
+
 
 DEMO VIDEO:
 
