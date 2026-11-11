@@ -1,6 +1,7 @@
 # ALU-HALF
 
-<img width="526" height="522" alt="image" src="https://github.com/user-attachments/assets/b6616b9c-4691-4656-b248-8b572d407902" />
+<img width="1123" height="775" alt="image" src="https://github.com/user-attachments/assets/04af22d9-d771-4f31-99d7-bd1629fbd354" />
+
 
 I built this circuit or Half Adder to help new hobbyists & beginner enthusiasts understand how the basics of Digital Electronics work!!
 This circuit helped me understand the basics of Binary Addition, so why not build it and share it to others? :)
