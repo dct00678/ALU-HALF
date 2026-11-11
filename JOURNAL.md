@@ -92,6 +92,7 @@ Jumper Wires / Solid Core Wires
 **6. Connect the switches to their appropriate logic gate inputs**
 
 It should be this: 
+OR follow the schematic diagram
 <img width="1042" height="850" alt="image" src="https://github.com/user-attachments/assets/d0764091-124e-411d-a218-40bf5ef8730c" />
 
 
@@ -104,6 +105,8 @@ Wired the And Gate input and outputs, and also changed the length of the resisto
 <img width="2032" height="914" alt="image" src="https://github.com/user-attachments/assets/ab9d969c-aa21-4f2d-8afa-3398695b7773" />
 THE AND GATE WORKED!! 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3073c0f1-ad9c-4c61-a96c-084f0251940b" />
+
+
 Journal is now done thx you!! 
 CTTO: https://www.geeksforgeeks.org/digital-logic/implementation-of-full-adder-using-half-adders/#what-is-half-adder
 
