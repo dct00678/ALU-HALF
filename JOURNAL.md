@@ -53,7 +53,7 @@ I also added the unused pins of each logic gates, and each of their inputs is pu
 
 **Total time spent: 20 Minutes**
 
-# November 11 2026 / 🕤 9:50 - 11:30
+# November 11 2026 / 🕤 9:50 PM : 11 PM
 Assembly Time!
 
 **THIS WILL ALSO BE A GUIDE FOR CREATING IT YOURSELF!!**
@@ -87,9 +87,24 @@ Jumper Wires / Solid Core Wires
 **5. Connect the switches on the breadboard** 
 <img width="912" height="2026" alt="image" src="https://github.com/user-attachments/assets/331a90f7-ab3b-40fb-b6d2-4fbcb253526c" />
 
+
+# Novemeber 12, 2026 | 🕠 5:30 PM - 6:30 PM
 **6. Connect the switches to their appropriate logic gate inputs**
+
 It should be this: 
 <img width="1042" height="850" alt="image" src="https://github.com/user-attachments/assets/d0764091-124e-411d-a218-40bf5ef8730c" />
+
+
+CONTINUED THE NEXT DAY BECAUSE IT WAS NIGHT TIME AND I HAD SCHOOL
+
+There was an error of my wiring of switches, turns out each Pin 1 and 3 both of the switches are connected to GND, and when i tested it the led flickered, but i fixed it. 
+I also first wired the inputs to XOR Gate first then AND Gate, can be seen in 2nd pic
+<img width="2032" height="914" alt="image" src="https://github.com/user-attachments/assets/b9365892-4bb2-45b9-9722-bfec2952f436" />
+Wired the And Gate input and outputs, and also changed the length of the resistor legs
+<img width="2032" height="914" alt="image" src="https://github.com/user-attachments/assets/ab9d969c-aa21-4f2d-8afa-3398695b7773" />
+THE AND GATE WORKED!! 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3073c0f1-ad9c-4c61-a96c-084f0251940b" />
+Journal is now done thx you!! 
 CTTO: https://www.geeksforgeeks.org/digital-logic/implementation-of-full-adder-using-half-adders/#what-is-half-adder
 
 **Total time spent: 30 Minutes**
