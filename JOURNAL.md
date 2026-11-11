@@ -5,7 +5,7 @@ description: "Building a 74LS Half Adder: The Core Foundation of Modern Microcon
 created_at: 11-10-2026
 ---
 
-# November 11 2026 / 🕗 8:20 - 8:40 PM
+# November 10 2026 / 🕗 8:20 - 8:40 PM
 Started creating the schematic in KiCad cuz the last time that i was building schematics was in EasyEda and well it was REALLY bad!
 
 Made the VCC AND GND connections of each Logic Gate, paired with a 0.1uf Capacitor. 
@@ -19,7 +19,7 @@ Note: Today i learned that we need to use pwr_flags for the vcc and gnd pin!!
 
 **Total time spent: 20 Minutes**
 
-# November 11 2026 / 🕣 8:45 - 8:50 PM
+# November 10 2026 / 🕣 8:45 - 8:50 PM
 Added the switches for the inputs of the Half Adder
 I used SPDT Switches so when a another person builds this, they can manually change the state of each input. (I HATE USING PUSHBUTTONS!!)
 
@@ -32,7 +32,7 @@ SW2= Input B
 
 **Total time spent: 10 Minutes**
 
-# November 11 2026 / 🕣 8:55 - 9:25 pm
+# November 10 2026 / 🕣 8:55 - 9:25 pm
 
 Built the 74LS Logic Gates, had a little mix up on the wires but resolved within 2 minutes
 Used 20k Resistors for the base of the transistors then connected another 20k from the base to GND.
@@ -43,7 +43,7 @@ From what i have experienced, it's to avoid floating pins
 
 **Total time spent: 30 Minutes**
 
-# November 11 2026 / 🕤 9:25 PM - 9:45 PM
+# November 10 2026 / 🕤 9:25 PM - 9:45 PM
 Ran the Electrical Rules Checker, and i got a message / error of the VCC and GND pin of the 74LS86 has been reversed, but it was quickly solved.
 
 
@@ -53,7 +53,7 @@ I also added the unused pins of each logic gates, and each of their inputs is pu
 
 **Total time spent: 20 Minutes**
 
-# November 11 2026 / 🕤 9:50 PM : 11 PM
+# November 10 2026 / 🕤 9:50 PM : 11 PM
 Assembly Time!
 
 **THIS WILL ALSO BE A GUIDE FOR CREATING IT YOURSELF!!**
@@ -87,8 +87,10 @@ Jumper Wires / Solid Core Wires
 **5. Connect the switches on the breadboard** 
 <img width="912" height="2026" alt="image" src="https://github.com/user-attachments/assets/331a90f7-ab3b-40fb-b6d2-4fbcb253526c" />
 
+**Total time: 1 hour 10 minutes**
 
-# Novemeber 12, 2026 | 🕠 5:30 PM - 6:30 PM
+
+# Novemeber 11, 2026 | 🕠 5:30 PM - 6:30 PM
 **6. Connect the switches to their appropriate logic gate inputs**
 
 It should be this: 
@@ -106,6 +108,7 @@ Wired the And Gate input and outputs, and also changed the length of the resisto
 THE AND GATE WORKED!! 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3073c0f1-ad9c-4c61-a96c-084f0251940b" />
 
+**Total time: 1 hour**
 
 Journal is now done thx you!! 
 CTTO: https://www.geeksforgeeks.org/digital-logic/implementation-of-full-adder-using-half-adders/#what-is-half-adder
