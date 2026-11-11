@@ -87,7 +87,7 @@ Jumper Wires / Solid Core Wires
 **5. Connect the switches on the breadboard** 
 <img width="912" height="2026" alt="image" src="https://github.com/user-attachments/assets/331a90f7-ab3b-40fb-b6d2-4fbcb253526c" />
 
-**Total time: 1 hour 10 minutes**
+**Total time spent: 1 hour 10 minutes**
 
 
 # Novemeber 11, 2026 | 🕠 5:30 PM - 6:30 PM
