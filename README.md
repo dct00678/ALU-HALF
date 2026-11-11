@@ -16,3 +16,7 @@ Since AND Gate is HIGH if only both inputs are HIGH, then the inputs are true!
 In binary addition, 1 + 1 = 0, and we have to carry the C_OUT somewhere, and the AND Gate is appropriate here!
 
 This circuit exists because Half Adders are one of the fundamentals needed in creating todays machine and MCUS. (Microcontroller Unit)
+
+DEMO VIDEO:
+
+https://www.youtube.com/watch?v=myyzes973is
