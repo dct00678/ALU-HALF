@@ -1,4 +1,4 @@
-"Reference","Qty","Value","Description","Footprint","Datasheet"
+"Part Name","Quantity","Value","Description","Footprint","Datasheet"
 "C1","1","220µF","Electrolytic capacitor, 16V, radial (bulk, +5V rail)","",""
 "C2,C3","2","0.1µF","Ceramic capacitor, 50V (decoupling)","",""
 "D1,D2","2","LED Red 5mm","Red LED, 5mm (D1 = SUM, D2 = C_OUT)","",""
